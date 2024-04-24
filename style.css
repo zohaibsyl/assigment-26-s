@@ -1,0 +1,27 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    color: black;
+    text-align: center;
+    margin: 30px;
+    font-size: 70px;
+}
+
+body{
+background-image: url(timers-icon-transparent-background-stopwatch-symbol-countdown-timer-illustration_668760-2273.avif);
+background-repeat: no-repeat;
+background-size: cover;
+
+}
+
+h1{
+    text-align: center;
+    display: inline-block;
+}
+button{
+    border-radius: 4px;
+    color: black;
+    font-size: large;
+    width: 70px;
+    background-color: aqua;
+}
